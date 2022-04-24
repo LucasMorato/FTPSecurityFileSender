@@ -1,5 +1,5 @@
 # IMPORTANT! All files/folders must be in the same location as the script
-# IMPORTANT 2! All folders must exist on the server
+# IMPORTANT 2! All folders must exist in the server
 
 #connect using TLS  1.2 version
 from ftplib import FTP_TLS
